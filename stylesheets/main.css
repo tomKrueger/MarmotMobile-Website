@@ -1,0 +1,25 @@
+.head {
+    background: rgb(255, 255, 255);
+    border-bottom: 5px solid rgb(146, 171, 194);
+    width: 100%;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 5px 0px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 5px 0px;
+
+}
+
+.slider {
+    margin-top: 10px;
+}
+
+.topbar {
+    background: url("../images/topbar.jpg");
+    float: left;
+    height: 9px;
+    width: 100%;
+}
+
+.go-top { background-color: black; background-color: rgba(0, 0, 0, 0.2); bottom: 48px; display: none; height: 48px; position: fixed; right: 48px; -webkit-transition: background-color 0.2s ease-in-out; -moz-transition: background-color 0.2s ease-in-out; -o-transition: background-color 0.2s ease-in-out; transition: background-color 0.2s ease-in-out; width: 48px;}.go-top:hover { background-color: #f54128; background-color: rgba(0, 0, 0, 0.5);}.go-top span { color: white; display: inline-block; font-size: 16px; left: 50%; position: absolute; height: 24px; margin: -12px 0 0 -12px; top: 50%; width: 24px;}
+
+.contact-bg {
+    background: rgba(255,255,255,.7);
+}
